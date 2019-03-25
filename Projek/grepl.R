@@ -1,0 +1,1 @@
+grepl(pattern="[^s]", "pelanggan")
